@@ -1,0 +1,13 @@
+B:\Projetos\visual-studio-2019\MaiorSalario\MaiorSalario\bin\Debug\netcoreapp3.1\MaiorSalario.exe
+B:\Projetos\visual-studio-2019\MaiorSalario\MaiorSalario\bin\Debug\netcoreapp3.1\MaiorSalario.deps.json
+B:\Projetos\visual-studio-2019\MaiorSalario\MaiorSalario\bin\Debug\netcoreapp3.1\MaiorSalario.runtimeconfig.json
+B:\Projetos\visual-studio-2019\MaiorSalario\MaiorSalario\bin\Debug\netcoreapp3.1\MaiorSalario.runtimeconfig.dev.json
+B:\Projetos\visual-studio-2019\MaiorSalario\MaiorSalario\bin\Debug\netcoreapp3.1\MaiorSalario.dll
+B:\Projetos\visual-studio-2019\MaiorSalario\MaiorSalario\bin\Debug\netcoreapp3.1\MaiorSalario.pdb
+B:\Projetos\visual-studio-2019\MaiorSalario\MaiorSalario\obj\Debug\netcoreapp3.1\MaiorSalario.csprojAssemblyReference.cache
+B:\Projetos\visual-studio-2019\MaiorSalario\MaiorSalario\obj\Debug\netcoreapp3.1\MaiorSalario.AssemblyInfoInputs.cache
+B:\Projetos\visual-studio-2019\MaiorSalario\MaiorSalario\obj\Debug\netcoreapp3.1\MaiorSalario.AssemblyInfo.cs
+B:\Projetos\visual-studio-2019\MaiorSalario\MaiorSalario\obj\Debug\netcoreapp3.1\MaiorSalario.csproj.CoreCompileInputs.cache
+B:\Projetos\visual-studio-2019\MaiorSalario\MaiorSalario\obj\Debug\netcoreapp3.1\MaiorSalario.dll
+B:\Projetos\visual-studio-2019\MaiorSalario\MaiorSalario\obj\Debug\netcoreapp3.1\MaiorSalario.pdb
+B:\Projetos\visual-studio-2019\MaiorSalario\MaiorSalario\obj\Debug\netcoreapp3.1\MaiorSalario.genruntimeconfig.cache
